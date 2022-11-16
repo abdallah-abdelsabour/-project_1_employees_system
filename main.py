@@ -1,12 +1,10 @@
 
 from employee import Employee
 from employee_manger import EmployeeManger
-from tabulate  import tabulate
-from prettytable import PrettyTable
 from texttable import Texttable
 
 import colorama
-from colorama import Fore, Back, Style
+from colorama import Fore 
 colorama.init(autoreset=True)
 
     
